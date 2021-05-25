@@ -16,4 +16,6 @@ Images with faded away numbers will retrieve inaccurate results from easyocr
 
 ## Output
 
+![alt text](https://github.com/Kaviya-U-C/Blink-Card-For-Credit-Card/blob/main/Output/1.jpeg?raw=true)
+
 
