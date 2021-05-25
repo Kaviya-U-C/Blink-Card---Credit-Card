@@ -11,6 +11,7 @@ Using Blink Card, we intend to improve the customer's experiences, by providing 
 ## Challenges:
 
 Images with lot of background interference may degrade model performance
+
 Images with faded away numbers will retrieve inaccurate results from easyocr
 
 ## Output
