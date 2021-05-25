@@ -16,6 +16,14 @@ Images with faded away numbers will retrieve inaccurate results from easyocr
 
 ## Output
 
+Step 1: User is feeds in the credit card image 
+
 ![alt text](https://github.com/Kaviya-U-C/Blink-Card-For-Credit-Card/blob/main/Output/1.jpeg?raw=true)
+
+
+Step 2: On clicking on the "Get Credit Card Number", Blink Card retrives the card number within few seconds and the user can go ahead with the payment
+
+![alt text](https://github.com/Kaviya-U-C/Blink-Card-For-Credit-Card/blob/main/Output/2.jpeg?raw=true)
+
 
 
